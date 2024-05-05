@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+}
+img {
+    width: 400px;
+    height: 600px;
+}
+.image {
+    filter: grayscale(100%);
+}
